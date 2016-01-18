@@ -1,4 +1,4 @@
--- Simon Markham 12307233
+-- Simon Markham 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 entity Control_Address_Register is
