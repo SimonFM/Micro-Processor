@@ -1,4 +1,4 @@
--- Simon Markham 12307233
+-- Simon Markham
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
