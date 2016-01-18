@@ -1,4 +1,4 @@
--- Simon Markham 1230723
+-- Simon Markham
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 ENTITY memory_256_test IS
