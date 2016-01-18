@@ -1,4 +1,4 @@
--- Simon Markham 12307233
+-- Simon Markham 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 entity Mux_4_to_1 is
